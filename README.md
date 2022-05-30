@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaubrey7
+- 👋 Hi, I’m Vaughn_Aubrey
 - 👀 I’m interested in Full Stack Engineering
 - 🌱 I’m currently learning UI/UX Design, MERN, and Javascrypt
 - 💞️ I’m looking to collaborate on Web designs 
